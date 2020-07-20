@@ -1,7 +1,10 @@
 # Responsive-Portfolio
-Link to page goes here!
+<a href="https://alexemrob.github.io/Responsive-Portfolio/">View My Page!</a>
+
 <br>
-screenshots go here!
+<img src="./assets/images/SSindex.png" alt="index screenshot">
+<img src="./assets/images/SScontact.png" alt="contact screenshot">
+<img src="./assets/images/SSportfolio.png" alt="portfolio screenshot">
 
 <h3>Unit 02 CSS and Bootstrap Homework</h3>
   <p>Responsive design means that my page displays properly on most screen sizes. As a
