@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap");
+*
+
+.icon{
+    background-color: #212529;
+    
+}
+.icon:hover{
+    background-color: #5e7b97;
+}
+
+
+footer{
+    background-color: #dddfe0;
+}
+
+.card{
+    background-color: #dddfe0;
+
+}
+h1{
+    font-family: 'Poppins', sans-serif;
+}
+.navbar-brand, .nav-item{
+    font-family: 'Poppins', sans-serif;
+}
