@@ -1,26 +1,37 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap");
 *
 
-.icon{
-    background-color: #212529;
-    
-}
-.icon:hover{
-    background-color: #5e7b97;
-}
-
-
-footer{
-    background-color: #dddfe0;
-}
-
-.card{
-    background-color: #dddfe0;
-
-}
 h1{
     font-family: 'Poppins', sans-serif;
+    font-weight: bolder;
+    color: #462623
 }
 .navbar-brand, .nav-item{
     font-family: 'Poppins', sans-serif;
+}
+.navbar-custom {
+   background-color: #673833;
+}
+.navbar-custom .navbar-brand, 
+.navbar-custom .navbar-text { 
+    color: #f1baa0; 
+} 
+.nav-link{
+    color: #c5957e;
+}
+.nav-link:hover{
+    color: #ead8d6;
+}
+.linkColor{
+    color: #a85c54;
+
+}
+.linkColor:hover{
+    color: #c99a95
+}
+.btn{
+    background-color: #673833;
+}
+.btn:hover{
+    background-color: #c29580;
 }
